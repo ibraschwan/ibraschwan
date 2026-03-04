@@ -128,7 +128,7 @@ Led design team building battery-driven energy-efficient cars
 - 📧 Email: [ben@ibracob.dev](mailto:ben@ibracob.dev)
 - 🌐 Website: [ibracob.dev](https://ibracob.dev)
 - 📱 Phone: +90 531 898 6306
-- 💼 GitHub: [@ibraschwanCreate](https://github.com/ibraschwan)
+- 💼 GitHub: [@ibraschwan](https://github.com/ibraschwan)
 
 ---
 
